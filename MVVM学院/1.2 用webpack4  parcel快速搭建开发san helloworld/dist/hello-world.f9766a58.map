@@ -1,0 +1,1 @@
+{"version":3,"sources":["app\\hello-world\\hello-world.js"],"names":["console","log","map","n"],"mappings":";AAAAA,QAAQC,GAAR,CAAY,aAAZ;AACA,CAAC,CAAD,EAAG,CAAH,EAAK,CAAL,EAAQC,GAAR,CAAY;AAAA,SAAKC,IAAI,CAAT;AAAA,CAAZ","file":"hello-world.f9766a58.map","sourceRoot":"..\\src","sourcesContent":["console.log(\"hello world\");\r\n[1,2,3].map(n => n + 1);"]}
